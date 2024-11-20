@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486214143076",
+    "project_id": "voyagyr-6019f",
+    "storage_bucket": "voyagyr-6019f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486214143076:android:e9dec40e7e343c8eeee371",
+        "android_client_info": {
+          "package_name": "com.voyagyr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486214143076-j1tk4u06cqq8kaafue4f4kaa9pcvbrm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voyagyr",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "486214143076-467kh0fmlme8h4kvn1jr3o0hq2ibknmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZzDY-ys8qZkJQJ58pCXPcFBp3A3x5sJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486214143076-467kh0fmlme8h4kvn1jr3o0hq2ibknmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
