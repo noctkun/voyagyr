@@ -1,3 +1,5 @@
+APK LINK - https://drive.google.com/drive/folders/17nuPljzHSKIXBCV2QVYaMwhxpsLhuSbJ?usp=sharing
+
 Download and Install the apk-release.apk file.
 
 INSTRUCTIONS
